@@ -1,0 +1,14 @@
+{
+  "name": "rubber-band",
+  "version": "1.0.0",
+  "description": "Query tool for elasticsearch",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^12.1.3"
+  }
+}
